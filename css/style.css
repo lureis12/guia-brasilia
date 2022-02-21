@@ -11,8 +11,8 @@
 }
 
 .pontosturisticos {
-    background: #162716;
-    color: white;
+    background: #A0B0A9;
+    color: black;
 }
 
 .contato {
@@ -55,9 +55,9 @@
 }
 
 .btn-enviar {
-    background-color:#44c767;
+    background-color:#4f7759;
 	border-radius:23px;
-	border:1px solid #18ab29;
+	border:1px solid #0e3112;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
@@ -69,7 +69,7 @@
 }
 
 .btn-enviar:hover {
-    background: #5cbf2a;
+    background: #5c963e;
 }
 
 .btn-enviar:active {
